@@ -1,0 +1,146 @@
+[
+    {
+      "id": "BREAK001",
+      "name": "Bagel And Cream Cheese",
+      "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+      "price": 6.99,
+      "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Breakfast/breakfast1.png",
+      "catagory": "breakfast"
+    },
+    {
+        "id": "BREAK002",
+        "name": "Breakfast Sandwich",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 9.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Breakfast/breakfast2.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": "BREAK003",
+        "name": "Baked Chicken",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 10.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Breakfast/breakfast3.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": "BREAK004",
+        "name": "Toast Croissant Fried Egg",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 8.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Breakfast/breakfast4.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": "BREAK005",
+        "name": "Eggs Benedict",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 19.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Breakfast/breakfast5.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": "BREAK006",
+        "name": "Full Breakfast Fried Egg Toast Bunch",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 3.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Breakfast/breakfast6.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": "LUNCH001",
+        "name": "Healthy Meal Plan",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 33.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/lunch/lunch1.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": "LUNCH002",
+        "name": "Fried Chicken Steam",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 9.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/lunch/lunch2.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": "LUNCH003",
+        "name": "Tarragon-Rubbed-Salmon",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 10.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/lunch/lunch3.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": "LUNCH004",
+        "name": "Indian Lunch",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 8.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/lunch/lunch4.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": "LUNCH005",
+        "name": "Beef Steak",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 19.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/lunch/lunch5.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": "LUNCH006",
+        "name": "Honey-Soy-Glazed Salmon With Peppers",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 7.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/lunch/lunch6.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": "DINNER001",
+        "name": "Salmon With Grapefruit And Lentil Salad",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 9.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Dinner/dinner1.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": "DINNER002",
+        "name": "Lemony Salmon Piccata",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 10.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Dinner/dinner2.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": "DINNER003",
+        "name": "Pork Tenderloin With Quinoa Pilaf",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 61.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Dinner/dinner3.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": "DINNER004",
+        "name": "French Fries With Cheese",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 28.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Dinner/dinner4.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": "DINNER005",
+        "name": "Garlic Butter Baked Salmon",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 19.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Dinner/dinner5.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": "DINNER006",
+        "name": "Baked Chicken",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+        "price": 9.99,
+        "image" : "https://raw.githubusercontent.com/JafrulSadik/onion-resource/main/Dinner/dinner6.png",
+        "catagory": "dinner"
+    }
+]

@@ -1,0 +1,9 @@
+#bannar{
+    background-image: url("./bannerbackground.png");
+    background-repeat: no-repeat;
+}
+
+#bannar h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
